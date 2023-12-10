@@ -67,7 +67,7 @@ const About = () => {
           style={{
             textAlign: "left",
             columns: 2,
-            fontSize: "1.25rem",
+            fontSize: "1.20rem",
             margin: "2rem 3rem",
             gap: "3rem",
           }}
